@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Tue Jun 02 14:23:16 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-74fc-5f57-ffffb8175977 
+on database directory /Users/denys_kryzhanivskyi/Desktop/2 Rok/4 Semestr/TPO/TPO6_KD_S18714/src/zad1/DerbyDB with class loader ParallelWebappClassLoader
+  context: BookStore
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5aaa6d82
+ 
+Loaded from file:/Users/denys_kryzhanivskyi/Desktop/2%20Rok/4%20Semestr/TPO/TPO6_KD_S18714/build/classes/artifacts/TPO6_KD_S18714_Web_exploded/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/denys_kryzhanivskyi/Documents/apache-tomcat-9.0.33/bin
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=/Users/denys_kryzhanivskyi/Desktop/2 Rok/4 Semestr/TPO/TPO6_KD_S18714/src/zad1
+Database Class Loader started - derby.database.classpath=''
